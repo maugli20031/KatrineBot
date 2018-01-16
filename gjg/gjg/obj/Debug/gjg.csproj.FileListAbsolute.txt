@@ -1,0 +1,34 @@
+C:\Users\VOVA\Desktop\Мой помошник\Сам он\gjg\gjg\bin\Debug\gjg.exe.config
+C:\Users\VOVA\Desktop\Мой помошник\Сам он\gjg\gjg\bin\Debug\gjg.exe
+C:\Users\VOVA\Desktop\Мой помошник\Сам он\gjg\gjg\bin\Debug\gjg.pdb
+C:\Users\VOVA\Desktop\Мой помошник\Сам он\gjg\gjg\bin\Debug\Microsoft.Speech.dll
+C:\Users\VOVA\Desktop\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.csprojResolveAssemblyReference.cache
+C:\Users\VOVA\Desktop\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.Form1.resources
+C:\Users\VOVA\Desktop\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.Properties.Resources.resources
+C:\Users\VOVA\Desktop\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.csproj.GenerateResource.Cache
+C:\Users\VOVA\Desktop\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.csproj.CoreCompileInputs.cache
+C:\Users\VOVA\Desktop\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.exe
+C:\Users\VOVA\Desktop\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.pdb
+C:\Users\VOVA\Desktop\Сам он\gjg\gjg\bin\Debug\gjg.exe.config
+C:\Users\VOVA\Desktop\Сам он\gjg\gjg\bin\Debug\gjg.exe
+C:\Users\VOVA\Desktop\Сам он\gjg\gjg\bin\Debug\gjg.pdb
+C:\Users\VOVA\Desktop\Сам он\gjg\gjg\bin\Debug\Microsoft.Speech.dll
+C:\Users\VOVA\Desktop\Сам он\gjg\gjg\obj\Debug\gjg.csprojResolveAssemblyReference.cache
+C:\Users\VOVA\Desktop\Сам он\gjg\gjg\obj\Debug\gjg.Form1.resources
+C:\Users\VOVA\Desktop\Сам он\gjg\gjg\obj\Debug\gjg.Properties.Resources.resources
+C:\Users\VOVA\Desktop\Сам он\gjg\gjg\obj\Debug\gjg.csproj.GenerateResource.Cache
+C:\Users\VOVA\Desktop\Сам он\gjg\gjg\obj\Debug\gjg.csproj.CoreCompileInputs.cache
+C:\Users\VOVA\Desktop\Сам он\gjg\gjg\obj\Debug\gjg.exe
+C:\Users\VOVA\Desktop\Сам он\gjg\gjg\obj\Debug\gjg.pdb
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\bin\Debug\gjg.exe.config
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\bin\Debug\gjg.exe
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\bin\Debug\gjg.pdb
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\bin\Debug\Microsoft.Speech.dll
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.csprojResolveAssemblyReference.cache
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.Form1.resources
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.Properties.Resources.resources
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.csproj.GenerateResource.Cache
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.csproj.CoreCompileInputs.cache
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.exe
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\obj\Debug\gjg.pdb
+C:\Users\VOVA\Desktop\Софт\Програмирование\Мой помошник\Сам он\gjg\gjg\bin\Debug\System.Speech.resources.dll

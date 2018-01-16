@@ -1,0 +1,36 @@
+            switch (e.Result.Text)
+            {
+                case "Останови видео":
+                    l.Text = "Пауза";
+                    SendKeys.Send(" ");
+                    break;
+
+                case "Постой паровоз":
+                    l.Text = "Пауза";
+                    SendKeys.Send(" ");
+                    break;
+
+                case "Тормози ушами":
+                    l.Text = "Пауза";
+                    SendKeys.Send(" ");
+                    break;
+
+                case "Газ в пол":
+                    l.Text = "Воспроизведение";
+                    SendKeys.Send(" ");
+                    break;
+
+                case "Полный вперед":
+                    l.Text = "Воспроизведение";
+                    SendKeys.Send(" ");
+                    break;
+
+                case "Алга Казахстан":
+                    l.Text = "Воспроизведение";
+                    SendKeys.Send(" ");
+                    break;
+
+                case "Вунд лох":
+                    l.Text = "Согласен";
+                    break;
+            }
